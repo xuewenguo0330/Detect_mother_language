@@ -1,4 +1,5 @@
-# Abstrat 
+# Projet Statistique -- GUO Xuewen, NDAO Ndieme
+## Abstrat 
 Nous avons choisi d'implémenter ce projet en utilisant le langage de programmation Python.
 Le but du projet est de détecter la langue maternelle à partir de phrases écrites en anglais.
 
